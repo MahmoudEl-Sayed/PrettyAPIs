@@ -10,6 +10,7 @@
 		7EB378BE2152897B001267B0 /* APIS_HANDLER.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7EB378BD2152897B001267B0 /* APIS_HANDLER.swift */; };
 		7EB378CE215298F4001267B0 /* PrettyAPIs.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 7EB378CD215298F4001267B0 /* PrettyAPIs.podspec */; };
 		7EB378D021529BD1001267B0 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 7EB378CF21529BD0001267B0 /* LICENSE */; };
+		7EB378D22152A80E001267B0 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 7EB378D12152A80E001267B0 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -18,6 +19,7 @@
 		7EB378C72152897C001267B0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7EB378CD215298F4001267B0 /* PrettyAPIs.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = PrettyAPIs.podspec; sourceTree = "<group>"; };
 		7EB378CF21529BD0001267B0 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		7EB378D12152A80E001267B0 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -36,6 +38,7 @@
 			children = (
 				7EB378CD215298F4001267B0 /* PrettyAPIs.podspec */,
 				7EB378CF21529BD0001267B0 /* LICENSE */,
+				7EB378D12152A80E001267B0 /* README.md */,
 				7EB378BA2152897B001267B0 /* PrettyAPIs */,
 				7EB378B92152897B001267B0 /* Products */,
 			);
@@ -116,6 +119,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7EB378D22152A80E001267B0 /* README.md in Resources */,
 				7EB378D021529BD1001267B0 /* LICENSE in Resources */,
 				7EB378CE215298F4001267B0 /* PrettyAPIs.podspec in Resources */,
 			);
