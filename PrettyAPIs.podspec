@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name             = 'PrettyAPIs'
-s.version          = '1.0.1'
+s.version          = '1.0.3'
 s.summary          = 'A pretty handler for your apis.'
 s.swift_version    = '4'
 s.description      = <<-DESC
