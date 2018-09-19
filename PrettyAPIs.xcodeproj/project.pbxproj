@@ -35,7 +35,6 @@
 			isa = PBXGroup;
 			children = (
 				7EB378CD215298F4001267B0 /* PrettyAPIs.podspec */,
-				7EB378CF21529BD0001267B0 /* LICENSE */,
 				7EB378BA2152897B001267B0 /* PrettyAPIs */,
 				7EB378B92152897B001267B0 /* Products */,
 			);
@@ -52,6 +51,7 @@
 		7EB378BA2152897B001267B0 /* PrettyAPIs */ = {
 			isa = PBXGroup;
 			children = (
+				7EB378CF21529BD0001267B0 /* LICENSE */,
 				7EB378BD2152897B001267B0 /* APIS_HANDLER.swift */,
 				7EB378C72152897C001267B0 /* Info.plist */,
 			);
